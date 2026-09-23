@@ -10,9 +10,6 @@ Supports combinations of delivery mode road/sea and UI platform windows/macos.
 - `abstractfactory` – (Button, Checkbox, GUIFactory) interface , WindowsFactory, WindowsCheckbox, WindowsButton, MacOSFactory, MacOSCheckbox, MacOSButton 
 - `app` – DeliveryApplication client and Main startup class
 
-## Prerequisites
-- JDK 17  
-- Any Java IDE (IntelliJ IDEA recommended)
 
 # UML
 ## FactoryMethod
